@@ -1,6 +1,7 @@
 # .gitignore for Vercel projects
 
-Rename `gitignore` to `.gitignore`
+Setup:
+- Rename `gitignore` to `.gitignore`
 
 File content:
 
