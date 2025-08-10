@@ -1,9 +1,13 @@
-# .gitignore for Vercel projects
+## ❓ How to Use
 
-Setup:
-- Rename `gitignore` to `.gitignore`
+### Prerequisites:
+- Windows operating system.
 
-File content:
+### Steps:
+1. Rename `gitignore` to `.gitignore`
+2. Move the file to your 
+
+### File content:
 
 ```
 # Logs
