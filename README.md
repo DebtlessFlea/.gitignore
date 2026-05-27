@@ -1,11 +1,5 @@
-## ❓ How to Use
-
-### Prerequisites:
-- Windows operating system.
-
-### Steps:
-1. Rename `gitignore` to `.gitignore`
-2. Move the file to your 
+> [!IMPORTANT]
+> Rename `gitignore` to `.gitignore`
 
 ### File content:
 
