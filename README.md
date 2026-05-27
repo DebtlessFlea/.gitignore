@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> After downloading, rename `gitignore` to `.gitignore`.
+> After downloading, rename `gitignore` to `.gitignore`
 
 ### File content:
 
